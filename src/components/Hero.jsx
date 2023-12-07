@@ -10,12 +10,12 @@ const Hero = () => {
       </nav>
 
       <h1 className='head_text'>
-        Resuma seus textos com <br className='max-md:hidden' />
-        <span className='purple_gradient'>OpenAI GPT-4</span>
+        Resuma seus textos com o<br className='max-md:hidden' />
+        <span className='purple_gradient'>KeyPoint</span>
       </h1>
 
       <h2 className="desc">
-        simplifique sua vida com <span className='purple_gradient font-medium'>KeyPoint</span>, um "resumidor" de artigos open source que transforma longos textos em resumos claros e concisos
+        simplifique sua vida com <span className='purple_gradient font-medium'>KeyPoint</span>, um resumidor open source que transforma longos textos da internet em resumos claros e concisos
       </h2>
     </header>
   )

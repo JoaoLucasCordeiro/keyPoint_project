@@ -2,6 +2,7 @@ import Hero from './components/Hero'
 import Demo from './components/Demo'
 
 import './App.css'
+import Footer from './components/Footer'
 
 const App = () => {
     return (
@@ -14,6 +15,7 @@ const App = () => {
             <div className='app'>
                 <Hero/>
                 <Demo/>
+                <Footer/>
             </div>
             
         </main>
